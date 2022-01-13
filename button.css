@@ -1,0 +1,133 @@
+.upflie
+
+{undefined
+
+width:
+
+80px;
+
+height:
+
+28px;
+
+text-align: center;
+
+vertical-align: middle;
+
+border-radius: 2px;
+
+-webkit-border-radius: 2px;
+
+-moz-border-radius: 2px;
+
+color:
+
+#fff;
+
+cursor:
+
+pointer;
+
+background: #4387CD;
+
+border:
+
+1px solid #4387CD;
+
+outline:
+
+none;
+
+position: relative;
+
+display:
+
+inline-block;
+
+overflow: hidden;
+
+text-decoration: none;
+
+line-height: 28px;
+
+}
+
+.upflie
+
+input {undefined
+
+position: absolute;
+
+font-size: 10px;
+
+width:
+
+200px;
+
+border:
+
+none;
+
+cursor:
+
+pointer;
+
+right:
+
+0;
+
+top:
+
+0;
+
+opacity:
+
+0;
+
+}
+
+a:hover
+
+{undefined
+
+display:
+
+inline-block;
+
+color:
+
+#fff;
+
+text-decoration: none;
+
+cursor:
+
+pointer!important;
+
+opacity:
+
+0.8;
+
+}
+
+.upflie
+
+:hover {undefined
+
+display:
+
+inline-block;
+
+overflow: hidden;
+
+color:
+
+#fff!important;
+
+cursor:
+
+pointer;
+
+text-decoration: none;
+
+}
